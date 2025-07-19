@@ -1,0 +1,9 @@
+ #Ignore virtual environments
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Dataset (optional if large or private)
+Data_sets/
